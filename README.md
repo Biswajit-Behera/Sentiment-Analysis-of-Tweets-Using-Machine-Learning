@@ -33,7 +33,8 @@ Forest Classifier, Multinomial Naive Bayes, and Decision Tree Classifier. Are in
 ![image](https://github.com/user-attachments/assets/338422b3-d317-42e1-ab2b-5fb1e205a13e)
 ![image](https://github.com/user-attachments/assets/f563a0f0-9d45-4764-ad33-d4a1c0b11e05)
 ![image](https://github.com/user-attachments/assets/8a515926-1815-4e56-b19e-d6919eb07a94)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8796a4a3-9603-44fe-b628-ddac950059d8)
+
 
 
 
