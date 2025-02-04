@@ -24,14 +24,18 @@ Here tweet emotions from SemEval-2018 Affect in Tweets Distant Supervision Corpu
 * Support Vector Machine (SVM)
 * Logistic Regression
 * Random Forest Classifier
-* XGBoost Classifier
 * Multinomial Naive Bayes
 * Decision Tree Classifier
 
 ## Result
-Accuracy of the six models - Support Vector Machine (SVM), Logistic Regression, Random
-Forest Classifier, XGBoost Classifier, Multinomial Naive Bayes and Decision Tree Classifier
-are `89.52%`, `86.2%`, `75.97%`, `89.1%`, `67.63%` and `86.82%` respectively.
+Accuracy, Precision,F1-Score, Recall of  the six models - Support Vector Machine (SVM), Logistic Regression, Random
+Forest Classifier, Multinomial Naive Bayes, and Decision Tree Classifier. Are in Notebbok or as below
+![image](https://github.com/user-attachments/assets/338422b3-d317-42e1-ab2b-5fb1e205a13e)
+![image](https://github.com/user-attachments/assets/f563a0f0-9d45-4764-ad33-d4a1c0b11e05)
+![image](https://github.com/user-attachments/assets/8a515926-1815-4e56-b19e-d6919eb07a94)
+![Uploading image.png…]()
+
+
 
 ## Conclusion 
 In this project, we have used "tweet emotions from SemEval-2018 Affect in Tweets Distant Supervision Corpus (AIT-2018 Dataset)". As it’s a noisy dataset, first we had to do the preprocessing such as punctuation remove and converted emojis into texts, tokenization, remove stopwords, and lemmatization.
